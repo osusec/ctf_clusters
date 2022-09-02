@@ -25,6 +25,7 @@ digraph teams {
     "DiceGuesser" [href="https://ctftime.org/team/182504"]
     "OSUSEC" [href="https://ctftime.org/team/12858"]
     "organizers" [href="https://ctftime.org/team/42934"]
+    "侍" [href="https://ctftime.org/team/1937/"]
   }
 
   // level 2
@@ -156,6 +157,7 @@ digraph teams {
     "DiceGuesser" -> DEFCON [style="bold"];
     "OSUSEC" -> DEFCON [style="bold"];
     "organizers" -> DEFCON [style="bold"];
+    "侍" -> DEFCON [style="bold"];
   }
 
   // level 2 -> level 1
